@@ -19,5 +19,6 @@
 - **Payment Type:** Cash | Credit | Online  
 - **Customer Type:** New | Regular | VIP  
 
+## [Inspired from](https://youtu.be/pzpDI-KNyyc?si=nHlUYSLvj1SccDYP)
 
 ![Dashboard preview](dbimg.png "Dashboard preview")
